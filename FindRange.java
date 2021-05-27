@@ -3,7 +3,7 @@ package com.company;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class FindRange {
+public class FindArrayRange {
     static int[] array;
     public static int findRange() {
         Arrays.sort(array);
